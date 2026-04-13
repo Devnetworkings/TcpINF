@@ -1,0 +1,60 @@
+{
+    "temas": [
+        {
+            "id": 1,
+            "titulo": "Servicios y Protocolos",
+            "imagen": "https://i.pinimg.com/1200x/e2/58/83/e258834bda80dd1df923db02e49e09ac.jpg",
+            "sintesis": "Los servicios son las funciones de red para el usuario, mientras que los protocolos son el conjunto de reglas que permiten la comunicación universal.",
+            "clave": "Reglas de Comunicación"
+        },
+        {
+            "id": 2,
+            "titulo": "Puertos TCP / UDP",
+            "imagen": "https://raw.githubusercontent.com/Devnetworkings/TcpINF/main/img/usos-tcp-udp.png",
+            "sintesis": "Puntos de acceso lógico para identificar aplicaciones. TCP es fiable y UDP es rápido para streaming y juegos.",
+            "clave": "Identificación de Procesos"
+        },
+        {
+            "id": 3,
+            "titulo": "Modelo OSI",
+            "imagen": "https://i.pinimg.com/736x/13/0d/ac/130dac71d80a59971a008c4ec086fc12.jpg",
+            "sintesis": "Estándar de 7 capas que divide la comunicación en pasos lógicos, desde el hardware físico hasta la aplicación.",
+            "clave": "Mapa de Interconexión"
+        },
+        {
+            "id": 4,
+            "titulo": "Protocolo TCP",
+            "imagen": "https://i.pinimg.com/1200x/67/73/23/677323ac324ab3ca3fb5c90f377bee3d.jpg",
+            "sintesis": "Garantiza la entrega de datos mediante el saludo de tres vías (handshake) y la reordenación de paquetes.",
+            "clave": "Transmisión Garantizada"
+        },
+        {
+            "id": 5,
+            "titulo": "Cableado Estructurado",
+            "imagen": "https://i.pinimg.com/736x/1b/ef/1f/1bef1f2936134272aecb56601b9cbce4.jpg",
+            "sintesis": "Infraestructura física organizada bajo normas internacionales para facilitar el mantenimiento y la escalabilidad.",
+            "clave": "Normas de Infraestructura"
+        },
+        {
+            "id": 6,
+            "titulo": "Bandwidth & Transferencia",
+            "imagen": "https://tse1.mm.bing.net/th/id/OIP.LdHtICA4xrTU3Tqf3pYKDAHaE6?rs=1&pid=ImgDetMain",
+            "sintesis": "Capacidad máxima teórica vs. flujo real de datos, afectado por ruido, distancia y congestión.",
+            "clave": "Rendimiento de Red"
+        },
+        {
+            "id": 7,
+            "titulo": "Tecnología Token Ring",
+            "imagen": "https://i.pinimg.com/1200x/ec/bc/75/ecbc758dee174c503a30b530d0e2f321.jpg",
+            "sintesis": "Red en anillo que usa un 'token' para evitar colisiones. Fue el estándar corporativo antes de Ethernet.",
+            "clave": "Paso de Testigo"
+        },
+        {
+            "id": 8,
+            "titulo": "Tecnología Ethernet",
+            "imagen": "https://i.pinimg.com/736x/83/d8/c4/83d8c40cba620213ff2ae2927f9f3d18.jpg",
+            "sintesis": "Estándar líder basado en CSMA/CD. Económico, fácil de instalar y altamente escalable hasta 100 Gbps.",
+            "clave": "Estándar Global LAN"
+        }
+    ]
+}
